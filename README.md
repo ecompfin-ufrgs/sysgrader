@@ -1,2 +1,2 @@
 # sysgrader
-Sistema de dimensionamento de equipamentos de informática do TCE-SC
+Sistema de avaliação e recomendação de equipamentos de informática do TCE-SC
